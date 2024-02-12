@@ -1,0 +1,544 @@
+Phase,Question,rightansw
+S,"Cancer can result from a variety of different mutational events. Which of the following is LEAST likely to result in the initiation of a cancerous tumor?
+
+a. A receptor mutation results in activation of a cell-division pathway in the absence of the appropriate ligand.
+
+b. A mutation results in the loss of the ability to produce a tumor-suppressor protein.
+
+c. A defect in a cell-cycle checkpoint prevents a cell from entering the S phase.
+
+d. At the anaphase checkpoint, separation of chromatids occurs without all centromeres being attached to kinetochore microtubules from both poles.",c
+P,"Most cells that have become transformed into cancer cells have which of the following characteristics when compared to normal, healthy cells?
+
+a. Shorter cell cycle
+
+b. More carefully regulated rates of cell division
+
+c. Lower rates of mitosis
+
+d. Higher rates of protein translation
+
+e. Identical DNA",a
+S,"DNA replication occurs
+
+a. during the S phase of the cell cycle
+ 
+b. as the nuclear envelope breaks down in early mitosis
+ 
+c. during mitosis but not during meiosis
+ 
+d. in animal cells but not in plant cells
+ 
+e. only in cells destined to become gametes",a
+G0,"Question refer to the following list of processes.
+
+I. Gap 1
+
+II. Synthesis
+
+III. Gap 2
+
+IV. Mitosis
+
+V. Cytokinesis
+
+Which of the processes above compresses of M-Phase?
+
+a. I, II
+
+b. I, III
+
+c. IV, V
+
+d. I, II, III
+
+e. III, IV, V",c
+G0,"Question refer to the following list of processes.
+
+I. Gap 1
+
+II. Synthesis
+
+III. Gap 2
+
+IV. Mitosis
+
+V. Cytokinesis
+
+Which of the processes above compresses of Interphase?
+
+a. I, II
+
+b. I, III
+
+c. IV, V
+
+d. I, II, III
+
+e. III, IV, V",d
+G0,"If a tiger cell has 38 chromosomes, how many chromosomes will each daughter cell have at the end of the cell cycle (the cell undergoes mitosis)?
+
+a. 5
+
+b. 19
+
+c. 38
+
+d. 76
+
+e. 82",c
+M,"What is the role of the spindle fiber during mitosis?
+
+a. It help keep chromosomes together.
+
+b. It help seperate the chromosomes.
+
+c. It help S phase replicated DNA.
+
+d. It help Ms. Dansereau weaving.",b
+G0,"Which of the following processes take roughly 90-95% of the time of cellular division?
+
+a. Interphase
+
+b. Mitosis
+
+c. Cytokinesis
+
+d. All of the above each take roughly the same amount of time
+
+e. None of the above participate in cellular division",a
+G0,"How many checkpoints are there in cellular division?
+
+a. 0
+
+b. 1
+
+c. 2
+
+d. 3
+
+e. 4",d
+M,"Which statement is true about metaphase?
+
+a. nuclear membrane reforms
+
+b. DNA replication
+
+c. Seperate centrioles in the centrosome
+
+d. Help chromosomes line up with the equator",d
+T,"what statement is true about telophase?
+
+a. the nuclear membrane reforms
+
+b. ensures an equal division of chromosomes in the daughter cells
+
+c. divides the cytoplasm of a parental cell into two daughter cells
+
+d. condense chromatin and miotic spindle begin to form",a
+P,"What statement true about prophase?
+
+a. Centrosomes are at the opposites poles
+
+b. Teo daughter nuclei form
+
+c.  the nuclear envelope fragment
+
+d.  spindle fibers grow from the centrioles",d
+C,"A particular slide of cells is observed under a microscope. The scientist observes 278 cells in mitosis and 785 cells in total. Calculate the mitotic index (in terms of percentage).
+
+a. 5%
+
+b. 13%
+
+c. 21%
+
+d. 30%
+
+e. 35%",e
+G0,"Describe G0.
+
+a. State in which cells are multiplying quickly
+
+b. State in which cells are multiplying at regular rate
+
+c. State in which cells are not multiplying at all
+
+d. All of the above
+
+e. None of the above",c
+G0,"Cancer cells do not perform which of the following?
+
+a. Apoptosis
+b. Cellular division
+c. Cellular division checkpoints
+d. All of the above
+e. None of the above",a
+T,"Which of the following is the correct order of mitosis?
+
+a. Prophase → Metaphase → Anaphase → Telophase
+
+b. Metaphase → Anaphase → Telophase → Prophase
+
+c. Anaphase → Telophase → Metaphase → Prophase
+
+d. Prophase → Anaphase → Telophase → Metaphase
+
+e. Telophase → Metaphase → Anaphase → Prophase",a
+M,"Is metaphase the shortest phase in the cell cycle?
+
+a. True
+
+b. False",a
+G2,"What does the G2 checkpoint check for?
+
+a. Cell size, nutrients, molecular signals, DNA integrity
+
+b. DNA integrity, DNA replication
+
+c. Spindle checkpoint
+
+d. All of the above
+
+e. None of the above",b
+P,"Which of the following processes of mitosis is not correct?
+
+a. Prophase → Spindle fibers pull the chromatids to opposite ends of the cell, spindle fibers lengthen which causes the cell to elongate
+
+b. Metaphase → Spindle fibers move the chromosomes to the center of the cell
+
+c. Anaphase → Two chromosomes of DNA is formed, the nuclear membrane breaks down, spindle fibers start to form, centrioles move to opposite poles of the cell
+
+d. Cytokinesis → Nuclear envelopes are made, two new nuclei forms, furrow begins to form across the midline of parent cell
+
+e. None of the above",c
+C1,"What happens to telomeres after cellular division?
+
+a. It gets bigger
+
+b. It gets smaller
+
+c. It stays the same size
+
+d. It varies (all of the above)
+
+e. Telomeres are not a part of cellular division",b
+C,"A cell containing 92 chromatids at metaphase of mitosis would, at its completion, produce two nuclei each containing how many chromosomes?
+
+a. 12
+
+b. 16
+
+c. 23
+
+d. 46
+
+e. 92",d
+T,"Which statment is true about telophase?
+
+a. Sister chromarids seperate and move to opposite end of the cell
+
+b. Chromosomes become more condensed
+
+c. Chromosomes become less condensed
+
+d. cleavage furrow appears",c
+C,"27. The overproduction of cyclin causes...
+
+a. Cell division to not check for certain conditions at checkpoints
+
+b. Mass cell apoptosis
+
+c. A decrease in cell division rate
+
+d. More controlled cell division rate (regular cell division rate)
+
+e. Uncontrolled cell division rate, causing cancer",e
+C,"P53 does what?
+
+a. Increase cell division rate
+
+b. Decrease cell division rate
+
+c. Regulates cell division rate (normal cell division rate)
+
+d. Signals the cell to continue the cell cycle
+
+e. Signals the cell to stop the cell cycle",e
+G0,"Proto-oncogenes help keep what in control?
+Hint: The mutated gene of proto-oncogenes (oncogenes) is the cancer version of proto-oncogenes
+
+a. Chromosomes
+
+b. Spindle fibers
+
+c. The cell cycle
+
+d. Cytokinesis
+
+e. Mitosis",c
+C,"Kinases are proteins that control the cell cycle. Cyclin-Dependent Kinases (CDKs) tells the cell to __________ the cell cycle and Maturation-Promoting Factor (MPFs) tells/promotes the cell to __________ M phase
+
+a. Stop, enter
+
+b. Stop, leave
+
+c. Continue, enter
+
+d. Continue, leave
+
+e. None of the above",c
+A,"What is the thing being seperate in Anaphase?
+
+a. Chromosomes
+
+b. Spindle fibers
+
+c. Single Chromatid
+
+d. Sister Chromatid
+
+e. Microtubules",d
+M,"Which phase has nuclear envelope fragments?
+
+a. Prometaphase
+
+b. Metaphase
+
+c. Prophase
+
+d. Anaphase
+
+e. Myphase",a
+S,"Is S phase synthesis mRNA and protein for DNA synthesis?
+
+a. True
+
+b. False",b
+G1,"the newly formed cell grows to maturity. Some cells will stay in a ______ state after mature called the ______ phase until the cell needs to divide.
+
+a. Resting, G1
+
+b. Resting, G0
+
+c. Dividing, G0
+
+d. Dividing, G1
+
+e. Just leave it blank!!!",b
+G1,"What is NOT an appropriate statement for G1 phase?
+
+a. If the cell does not pass this checkpoint, it is sent to G0
+
+b. First gap phase
+
+c. Synthase mRNA
+
+d. replicated DNA",d
+G1,"True or False : The concentrations of cyclins remains constant throughout the cell cycle
+
+a. True
+
+b. False",b
+G1,"What happen before G1 phase?
+
+a. G0 occur
+
+b. Cell Signaling
+
+c. Exit M checkpoint
+
+d. Exit G1 checkpoint",c
+G2,"Is G2 the longest phase in the cell cycle?
+
+a. True 
+
+b. False",b
+S,"If a tiger cell has 38 chromosomes, how many chromosomes will each daughter cell have at the end of the cell cycle (the cell undergoes mitosis)?
+
+a. 5
+
+b. 19
+
+c. 38
+
+d. 76
+
+e. 82",c
+S,"What checkpoint checks DNA after S phase?
+
+a. S checkpoint
+
+b. G2 checkpoint
+
+c. G1 checkpoint
+
+d. M checkpoint",b
+G2,"Which statement is not true about G2 phase?
+
+a. the cell grows more
+
+b. makes proteins and organelles
+
+c.  Preparation for mitosis
+
+d. DNA synthesis",d
+G1,"Which statement best predicts why a cell’s progression through the cell cycle might be halted at the G1/s checkpoint?
+
+a. Spindle fibers have not correctly attached to chromosomes.
+
+b. There are not enough nucleotides available to construct new DNA 
+
+c. Damage occurred to DNA when it was being copied in G1.
+
+d. Proteins necessary for M phase of the cell cycle have not been produced.",b
+G2,"What occurs during the G2 phase of the cell cycle?
+
+a) DNA replication
+
+b) Preparation for mitosis
+
+c) Cell growth and organelle duplication
+
+d) Chromosome alignment",c
+G2,"What is the significance of the G2 checkpoint in the cell cycle?
+
+a) It ensures that chromosomes are properly aligned.
+
+b) It ensures that DNA is undamaged and fully replicated.
+
+c) It signals the start of DNA replication.
+
+d) It initiates cytokinesis.",b
+A,"In anaphase, what structure helps to separate sister chromatids and pull them towards opposite poles?
+
+a) Centrioles
+
+b) Microtubules
+
+c) Golgi apparatus
+
+d) Endoplasmic reticulum",b
+A,"At the end of anaphase, each daughter cell will have:
+
+a) A diploid number of chromosomes
+
+b) A haploid number of chromosomes
+
+c) Identical sets of chromosomes
+
+d) Half the number of chromosomes as the parent cell",c
+A,"What molecular process drives the movement of chromosomes towards opposite poles during anaphase?
+
+a) Spindle fiber contraction
+
+b) DNA replication
+
+c) Chromosome condensation
+
+d) Nuclear envelope breakdown",a
+A,"What is the consequence of a failure in anaphase?
+
+a) Chromosomes fail to condense
+
+b) Sister chromatids fail to separate properly
+
+c) DNA replication does not occur
+
+d) Nuclear envelope does not reform
+",b
+P,"What structure forms during prophase to facilitate the movement of chromosomes?
+
+a) Centrioles
+
+b) Microtubules
+
+c) Golgi apparatus
+
+d) Endoplasmic reticulum",b
+P,"In prophase, what happens to the centrioles?
+
+a) They replicate
+
+b) They disintegrate
+
+c) They move to opposite poles of the cell
+
+d) They align along the metaphase plate",c
+T,"In mitosis, nucleoli disappear when reach _____ and reappear in ______.
+
+a. anaphase, telophase
+
+b. prophase, telophase
+
+c. prophase, anaphase
+
+d. telophase, cytokinesis",b
+T,"What is the primary function of telophase in the cell cycle?
+
+a) DNA replication
+
+b) Preparation for mitosis
+
+c) Repairing damaged DNA
+
+d) Reestablishment of nuclear envelopes and chromosomes decondensation",d
+M,"During metaphase, what type of movement do chromosomes exhibit?
+
+a) Movement towards the poles of the cell
+
+b) Movement towards the cell membrane
+
+c) Oscillatory movement
+
+d) Stationary position along the metaphase plate",d
+C,"What structures are involved in cytokinesis in animal cells?
+
+a) Cell plate
+
+b) Cleavage furrow
+
+c) Cell wall
+
+d) Centrioles",b
+C,"What is the final outcome of cytokinesis?
+
+a) Formation of two genetically identical daughter cells
+
+b) Replication of DNA
+
+c) Formation of two haploid daughter cells
+
+d) Alignment of chromosomes along the metaphase plate",a
+C,"What is Ms. Dansereau favorites phase in cell cycle? (Hint: Ask Mrs Dansereau!!!)
+
+a. Prophase
+
+b. Metaphase
+
+c. G0 phase
+
+d. Cytokinesis",a
+C,"Who is the creator of this program? (Hint: Ask Mrs. Dansereau)
+
+a. Professor Dansereau
+
+b. Tu Youyou
+
+c. Ada Lovelace
+
+d. Phuc Nguyen/Ibrahim Afzal",d
+G0,"What happens to cells in the G0 phase?
+
+a) They actively replicate DNA
+
+b) They exit the cell cycle and temporarily stop dividing
+
+c) They prepare for cell division
+
+d) They undergo apoptosis",b
+G0,"What is the significance of the G0 phase in cancer treatment?
+a) Cancer cells are highly sensitive to chemotherapy during G0 phase
+b) Cancer cells in G0 phase are resistant to chemotherapy
+c) Cancer cells rapidly divide during G0 phase
+d) Cancer cells in G0 phase are easily targeted by radiation therapy",b
