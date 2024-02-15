@@ -34,15 +34,15 @@ G0,"Question refer to the following list of processes.
 
 I. Gap 1
 
-II. Synthesis
+II. Gap 2
 
-III. Gap 2
+III. Anaphase
 
-IV. Mitosis
+IV. Metaphase
 
-V. Cytokinesis
+V. Prophase
 
-Which of the processes above compresses of M-Phase?
+Which of the processes above comprises the M-Phase?
 
 a. I, II
 
@@ -52,7 +52,7 @@ c. IV, V
 
 d. I, II, III
 
-e. III, IV, V",c
+e. III, IV, V",e
 G0,"Question refer to the following list of processes.
 
 I. Gap 1
@@ -65,7 +65,7 @@ IV. Mitosis
 
 V. Cytokinesis
 
-Which of the processes above compresses of Interphase?
+Which of the processes above comprises the interphase?
 
 a. I, II
 
@@ -140,7 +140,7 @@ P,"What statement true about prophase?
 
 a. Centrosomes are at the opposites poles
 
-b. Teo daughter nuclei form
+b. Two daughter nuclei form
 
 c.  the nuclear envelope fragment
 
@@ -212,7 +212,7 @@ c. Anaphase → Two chromosomes of DNA is formed, the nuclear membrane breaks do
 d. Cytokinesis → Nuclear envelopes are made, two new nuclei forms, furrow begins to form across the midline of parent cell
 
 e. None of the above",c
-C1,"What happens to telomeres after cellular division?
+C,"What happens to telomeres after cellular division?
 
 a. It gets bigger
 
@@ -243,7 +243,7 @@ b. Chromosomes become more condensed
 c. Chromosomes become less condensed
 
 d. cleavage furrow appears",c
-C,"27. The overproduction of cyclin causes...
+C,"The overproduction of cyclin causes...
 
 a. Cell division to not check for certain conditions at checkpoints
 
@@ -288,7 +288,7 @@ c. Continue, enter
 d. Continue, leave
 
 e. None of the above",c
-A,"What is the thing being seperate in Anaphase?
+A,"What is the thing being seperate in anaphase?
 
 a. Chromosomes
 
@@ -516,9 +516,9 @@ a. Prophase
 
 b. Metaphase
 
-c. G0 phase
+c. Anaphase
 
-d. Cytokinesis",a
+d. Cytokinesis",c
 C,"Who is the creator of this program? (Hint: Ask Mrs. Dansereau)
 
 a. Professor Dansereau
@@ -538,7 +538,11 @@ c) They prepare for cell division
 
 d) They undergo apoptosis",b
 G0,"What is the significance of the G0 phase in cancer treatment?
+
 a) Cancer cells are highly sensitive to chemotherapy during G0 phase
+
 b) Cancer cells in G0 phase are resistant to chemotherapy
+
 c) Cancer cells rapidly divide during G0 phase
+
 d) Cancer cells in G0 phase are easily targeted by radiation therapy",b
